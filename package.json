@@ -1,7 +1,6 @@
 {
   "name": "blogmern",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,5 +8,14 @@
     "build": "cd server && npm install && cd ../client && npm install && npm run build"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk2429/BlogVault.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk2429/BlogVault/issues"
+  },
+  "homepage": "https://github.com/mk2429/BlogVault#readme",
+  "description": ""
 }
