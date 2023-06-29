@@ -1,6 +1,8 @@
 const express=require("express")
 const cors=require("cors")
 const mongodb=require("./mongooseConnect")
+const path=require("path");
+
 
 const app=express()
 
